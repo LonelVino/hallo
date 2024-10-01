@@ -74,10 +74,10 @@
             "id": "anybg-sameid-1",
             "title": "Animated Background (Same Identity)",
             "items": [
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/adriana/6eH2B-breaking_waves.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/adriana/joker-dancing_fire.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/adriana/kara-bllowing_sails.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/adriana/mola-erupting_volcano.mp4"
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/Adriana/6eH2B-breaking_waves.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/Adriana/joker-dancing_fire.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/Adriana/kara-bllowing_sails.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/Adriana/mola-erupting_volcano.mp4"
             ],
             "count": 4
         }
@@ -88,12 +88,38 @@
             "id": "anybg-sameid-2",
             "title": "Animated Background (Same Identity)",
             "items": [
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/animated_bg/emo/066d-rushing_river.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/animated_bg/emo/AJ2ke-dancing_fire.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/animated_bg/emo/kara-bllowing_sails.mp4",
-                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/animated_bg/emo/mola-erupting_volcano.mp4"
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/emo/066d-rushing_river.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/emo/AJ2ke-dancing_fire.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/emo/kara-bllowing_sails.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/emo/mola-erupting_volcano.mp4"
             ],
             "count": 4
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "personalize-1",
+            "title": "Replace Personalized T2I Models",
+            "items": [
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/10.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/emo.mp4"
+            ],
+            "count": 1
+        }
+    },
+    {
+        "template": "video-carousel",
+        "props": {
+            "id": "personalize-txtonly",
+            "title": "Replace Personalized T2I Models (without reference image)",
+            "items": [
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/jana-txtonly-cars-1.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/jana-txtonly-cars-2.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/jana-txtonly-flames-1.mp4",
+                "//anyexpress.oss-cn-beijing.aliyuncs.com/personalize/jana-txtonly-flames-2.mp4"
+            ],
+            "count": 1
         }
     },
     {
@@ -104,7 +130,7 @@
             "items": [
                 {
                     "text": "Rushing River",
-                    "video": "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/animated_bg/emo/066d-rushing_river.mp4"
+                    "video": "//anyexpress.oss-cn-beijing.aliyuncs.com/animated_bg/emo/066d-rushing_river.mp4"
                 }
             ]
         }
